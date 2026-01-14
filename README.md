@@ -1,7 +1,8 @@
 ## MoonV2
 # sneak peak of the new ui : 
 
-<img width="800" height="450" alt="MoonE" src="https://github.com/user-attachments/assets/3398c633-e024-416c-acaa-30eff45d43cc" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/9ced460f-7949-4043-9b38-d2e31195c83c" />
+
 
 Free version is here .
 Coming Soon
