@@ -19,4 +19,4 @@ Coming Soon
 | Settings / Config       | Minimal | Expanded, customizable settings |
 | Key System              |  Included |  Removed |
 | Extra Features          | Basic executor functionality | Added ScriptHub, Monaco, better UI, more options |
-| Release Status          | Released | Current / Active |
+| Release Status          | Released | Coming Soon |
